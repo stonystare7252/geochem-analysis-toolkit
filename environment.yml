@@ -1,0 +1,22 @@
+name: geo-project
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-image
+  - geopandas
+  - shapely
+  - pyproj
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - nbqa
+      - ruff
+      - black
+      - isort
