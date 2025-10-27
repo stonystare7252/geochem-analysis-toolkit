@@ -1,6 +1,8 @@
 
 # Soil Geochemical Analysis & Mapping Pipeline
 
+[![DOI](https://zenodo.org/badge/1084092410.svg)](https://doi.org/10.5281/zenodo.17454503)
+
 This repository provides a **Jupyter Notebook workflow** for analyzing soil geochemical data and generating anomaly maps with sigma-based contour levels. The pipeline includes **unit standardization**, **robust variability metrics**, **element selection**, and a **cartographic module** for interpolation, smoothing, contour extraction, and export to **SHP** and **PNG**.
 
 > **Note:** No raw geochemical data is included due to confidentiality. You must provide your own dataset and update the input path in the notebook.
