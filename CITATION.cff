@@ -11,7 +11,7 @@ authors:
 version: "0.1.0"
 date-released: "2025-10-27"
 license: "MIT"
-doi: "10.5281/zenodo.0000000"  # Optional: replace with actual DOI if published
+doi: "10.5281/zenodo.17454503"
 keywords:
   - geochemistry
   - anomaly mapping
