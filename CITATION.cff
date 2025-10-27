@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this code or methodology, please cite as follows:"
+title: "Soil Geochemical Analysis & Mapping Pipeline"
+authors:
+  - family-names: "Pudakov"
+    given-names: "Anatoly"
+    affiliation: "Rio Tinto Exploration"
+version: "0.1.0"
+date-released: "2025-10-27"
+license: "MIT"
+doi: "10.5281/zenodo.0000000"  # Optional: replace with actual DOI if published
+keywords:
+  - geochemistry
+  - anomaly mapping
+  - sigma levels
+  - Jupyter
+  - Python
