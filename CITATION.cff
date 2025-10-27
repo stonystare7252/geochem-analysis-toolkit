@@ -1,5 +1,8 @@
 cff-version: 1.2.0
-message: "If you use this code or methodology, please cite as follows:"
+message: "If you use this code or methodology, please cite as follows:
+Pudakov, A. (2025). Soil Geochemical Analysis & Mapping Pipeline.
+DOI: https://doi.org/10.5281/zenodo.17454503
+License: MIT"
 title: "Soil Geochemical Analysis & Mapping Pipeline"
 authors:
   - family-names: "Pudakov"
